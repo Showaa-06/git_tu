@@ -5,4 +5,5 @@ echo "diff";
 echo "git commit --amend";
 echo "git merge";
 echo "conflict";
-echo "コンフリクト1を追記";
+echo "conflict1";
+echo "conflictだああああああああ";
