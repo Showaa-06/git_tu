@@ -4,5 +4,6 @@ echo "ぎtstatus";
 echo "diff";
 echo "git commit --amend";
 echo "conflict";
+echo "conflict1";
 
 
