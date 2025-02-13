@@ -6,4 +6,5 @@ echo "git commit --amend";
 echo "git merge";
 echo "conflict";
 echo "conflict1";
-echo "conflictだああああああああ";
+echo "conflict1daaaaaa";
+
