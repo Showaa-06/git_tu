@@ -5,5 +5,6 @@ echo "diff";
 echo "git commit --amend";
 echo "conflict";
 echo "conflict1";
+echo "conflict1daaaaaa";
 
 
