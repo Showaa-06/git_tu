@@ -4,7 +4,7 @@ echo "ぎtstatus";
 echo "diff";
 echo "git commit --amend";
 echo "git merge";
-echo "pull request";
+echo "ここを修正";
 
 
 
