@@ -5,6 +5,8 @@ echo "diff";
 echo "git commit --amend";
 echo "git merge";
 echo "ここを修正";
+echo "github flow";
+
 
 
 
